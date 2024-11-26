@@ -1,3 +1,5 @@
 # SGE_A_Python
-Repositorio para la actividad de SGE Condicionals
-PruebaPrueba
+Repositorio para las actividades de SGE 
+
+diagramas de flujo de la Actividad 3
+<img src="img/">
